@@ -1,0 +1,17 @@
+/* box1 빨강 오른쪽 */
+/* box2 노랑 왼쪽 */
+
+#box1 {
+  height: 2rem;
+  width: 2rem;
+  background-color: red;
+  float: right;
+  
+}
+
+#box2 {
+  height: 2rem;
+  width: 2rem;
+  background-color: yellow;
+  float: left;
+}
